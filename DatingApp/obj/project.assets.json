@@ -3117,11 +3117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal Projects\\Dating-App\\DatingApp\\DatingApp.csproj",
+      "projectUniqueName": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\DatingApp.csproj",
       "projectName": "DatingApp",
-      "projectPath": "D:\\Personal Projects\\Dating-App\\DatingApp\\DatingApp.csproj",
+      "projectPath": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\DatingApp.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal Projects\\Dating-App\\DatingApp\\obj\\",
+      "outputPath": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

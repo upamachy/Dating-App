@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Personal Projects\\Dating-App\\",
+  "WorkspaceRootPath": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingapp\\controllers\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\controllers\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingappapi\\datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingappapi\\datingapp\\controllers\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\controllers\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingappapi\\datingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingappapi\\datingapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingapp\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingappapi\\datingapp\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingappapi\\datingapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingappapi\\datingapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|d:\\personal projects\\dating-app\\datingappapi\\datingapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E58526D2-316A-4B98-8F69-776FFB90F5D7}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,24 +114,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Members.cs",
-              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingApp\\Controllers\\Members.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\Controllers\\Members.cs",
               "RelativeDocumentMoniker": "DatingApp\\Controllers\\Members.cs",
-              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingApp\\Controllers\\Members.cs",
+              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\Controllers\\Members.cs",
               "RelativeToolTip": "DatingApp\\Controllers\\Members.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T18:51:17.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T18:51:17.427Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingApp\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DatingApp\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingApp\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\Data\\AppDbContext.cs",
               "RelativeToolTip": "DatingApp\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,9 +140,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingApp\\Entities\\AppUser.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "DatingApp\\Entities\\AppUser.cs",
-              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingApp\\Entities\\AppUser.cs",
+              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\Entities\\AppUser.cs",
               "RelativeToolTip": "DatingApp\\Entities\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,23 +150,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingApp\\Program.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\Program.cs",
               "RelativeDocumentMoniker": "DatingApp\\Program.cs",
-              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingApp\\Program.cs",
+              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\Program.cs",
               "RelativeToolTip": "DatingApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T04:15:25.85Z"
+              "WhenOpened": "2025-08-14T04:15:25.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingApp\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "DatingApp\\appsettings.Development.json",
-              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingApp\\appsettings.Development.json",
+              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\appsettings.Development.json",
               "RelativeToolTip": "DatingApp\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -177,9 +177,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingApp\\WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "DatingApp\\WeatherForecast.cs",
-              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingApp\\WeatherForecast.cs",
+              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\WeatherForecast.cs",
               "RelativeToolTip": "DatingApp\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,9 +189,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingApp\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "DatingApp\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "DatingApp\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -201,9 +201,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingApp\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "DatingApp\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Personal Projects\\Dating-App\\DatingAppApI\\DatingApp\\Properties\\launchSettings.json",
               "RelativeToolTip": "DatingApp\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
