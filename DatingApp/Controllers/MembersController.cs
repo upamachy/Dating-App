@@ -6,9 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DatingApp.Controllers
     {
-    [Route ("api/[controller]")]
-    [ApiController]
-    public class MembersController ( AppDbContext context ) : ControllerBase
+    public class MembersController ( AppDbContext context ) : BaseController
         {
         [HttpGet]
         public async Task<ActionResult<IReadOnlyList<AppUser>>> GetMembers ( )
