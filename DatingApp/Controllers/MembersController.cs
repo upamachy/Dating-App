@@ -1,5 +1,6 @@
 ﻿using DatingApp.Data;
 using DatingApp.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -14,6 +15,8 @@ namespace DatingApp.Controllers
             var users = await context.Users.ToListAsync ( );
             return Ok (users);
             }
+
+        [Authorize]
         [HttpGet ("{id}")]
         public async Task<ActionResult<AppUser>> GetMember ( string id )
             {
