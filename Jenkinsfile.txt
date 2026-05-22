@@ -1,0 +1,76 @@
+pipeline {
+    agent any
+
+    environment {
+        DEPLOY_PATH = "C:\\inetpub\\wwwroot\\DatingApp\\API"
+        APP_POOL    = "Dating App"
+        SITE_NAME   = "Dating App"
+        PUBLISH_DIR = "${WORKSPACE}\\publish"
+    }
+
+    stages {
+
+        stage('Checkout') {
+            steps {
+                echo '📥 Checking out code...'
+                checkout scm
+            }
+        }
+
+        stage('Restore') {
+            steps {
+                echo '📦 Restoring NuGet packages...'
+                bat 'dotnet restore'
+            }
+        }
+
+        stage('Build') {
+            steps {
+                echo '🔨 Building in Release mode...'
+                bat 'dotnet build --configuration Release --no-restore'
+            }
+        }
+
+        stage('Publish') {
+            steps {
+                echo '📤 Publishing app...'
+                bat "dotnet publish --configuration Release --output ${env.PUBLISH_DIR}"
+            }
+        }
+
+        stage('Stop IIS App Pool') {
+            steps {
+                echo '⏸️ Stopping App Pool...'
+                bat "C:\\Windows\\System32\\inetsrv\\appcmd stop apppool /apppool.name:\"Dating App\""
+            }
+        }
+
+        stage('Deploy to IIS') {
+            steps {
+                echo '🚀 Deploying to IIS...'
+                bat "xcopy /E /I /Y \"${env.PUBLISH_DIR}\\*\" \"${env.DEPLOY_PATH}\\\""
+            }
+        }
+
+        stage('Start IIS App Pool') {
+            steps {
+                echo '▶️ Starting App Pool...'
+                bat "C:\\Windows\\System32\\inetsrv\\appcmd start apppool /apppool.name:\"Dating App\""
+            }
+        }
+    }
+
+    post {
+        success {
+            echo '✅ Deployment Successful!'
+            echo '🌐 App running at: http://localhost'
+        }
+        failure {
+            echo '❌ Deployment FAILED!'
+            bat "C:\\Windows\\System32\\inetsrv\\appcmd start apppool /apppool.name:\"Dating App\""
+        }
+        always {
+            cleanWs()
+        }
+    }
+}
